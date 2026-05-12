@@ -1,0 +1,49 @@
+{
+  "businessName": "Obaino Ventures",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Quality Manufacturing Solutions for Nigeria's Industrial Growth",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Obaino Ventures - Your Trusted Manufacturing Partner in Sokoto. We deliver excellence in manufacturing with precision, reliability, and commitment to quality. Serving businesses across Northern Nigeria and beyond.",
+      "imagePrompt": "Modern manufacturing facility in Sokoto, Nigeria, with industrial equipment and production lines, workers in safety gear, bright natural lighting streaming through large windows, professional atmosphere, high-quality machinery in motion, photorealistic, sharp details",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Obaino Ventures is a leading manufacturing company based in Wamakko, Sokoto State. Operating from our facility at Arkilla Federal Low-cost Sokoto, we are dedicated to providing top-tier manufacturing solutions that meet the needs of Nigerian businesses and industries. Our commitment to quality, innovation, and timely delivery has positioned us as a reliable partner for companies seeking exceptional manufacturing services. We combine modern technology with skilled expertise to deliver products that exceed industry standards.",
+      "imagePrompt": "Nigerian manufacturing workshop interior with organized production floor, quality control stations, raw materials storage, local workers collaborating, Sokoto industrial setting, natural daylight, clean organized workspace, professional documentary style photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At Obaino Ventures, we offer comprehensive manufacturing solutions tailored to your business needs:\n\n• Custom Manufacturing - Bespoke production services designed to your exact specifications\n• Quality Assurance - Rigorous testing and quality control at every production stage\n• Industrial Supply - Reliable supply of manufactured goods for businesses across Nigeria\n• Product Development - From concept to completion, we bring your ideas to life\n• Bulk Production - Large-scale manufacturing capacity for high-volume orders\n• Technical Consultation - Expert guidance on manufacturing processes and optimization\n\nWe serve diverse sectors including construction, agriculture, commerce, and industrial operations throughout Sokoto State and beyond.",
+      "imagePrompt": "Grid of manufacturing processes showing different industrial operations: metal fabrication, assembly lines, quality inspection with measuring tools, packaging area, Nigerian workers wearing safety equipment, modern factory environment in Sokoto, bright professional lighting, photorealistic detail",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Obaino Ventures",
+      "copy": "Local Expertise, National Standards\n\nWith deep roots in Sokoto State, we understand the unique needs of Nigerian businesses. Our strategic location in Wamakko provides excellent logistics access while keeping operational costs competitive.\n\n✓ Proven Track Record - Years of successful projects and satisfied clients\n✓ Quality Commitment - Every product meets stringent quality benchmarks\n✓ Timely Delivery - We respect deadlines and keep your projects on schedule\n✓ Competitive Pricing - Fair rates without compromising on quality\n✓ Local Support - Easy communication and accessible service team\n✓ Scalable Solutions - From small batches to large industrial orders",
+      "imagePrompt": "Confident Nigerian manufacturing team standing in front of modern production facility, wearing branded safety gear and helmets, Sokoto industrial estate background, golden hour lighting, professional corporate photography, sense of pride and capability",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to discuss your manufacturing needs? Contact Obaino Ventures today for a consultation.\n\nWhether you need a custom quote, technical specifications, or want to visit our facility, our team is ready to assist you. We serve clients across Sokoto State, Northern Nigeria, and nationwide.\n\nVisit us at our facility in Arkilla Federal Low-cost Sokoto, or reach out by phone, email, or WhatsApp for immediate response.",
+      "imagePrompt": "Professional Nigerian office reception area with comfortable seating, modern desk, Sokoto map on wall, industrial product samples on display, welcoming atmosphere, natural light, clean contemporary design, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 810 086 6674",
+    "email": "info@obainoventures.com.ng",
+    "address": "Arkilla Federal Low-cost Sokoto, Wamakko, Sokoto State, Nigeria",
+    "whatsapp": "https://wa.me/2348100866674"
+  }
+}
